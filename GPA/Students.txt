@@ -1,0 +1,30 @@
+Brown,Mary  4
+ENG 201 3 B
+STL 210 4 B
+MTH 233 3 B
+BIO 101 4 C
+Charles,Edward  5
+FAR 221 3 B
+PSY 301 3 C
+ENG 215 4 B
+MTH 315 3 B
+CHM 301 4 C
+Thomas,Joseph  3
+CIS 255 4 A
+MTH 123 3 B
+ECO 101 3 B
+Williams,Karen  4
+CIS 307 3 B
+BUS 101 3 C
+MTH 134 4 A
+SPA 121 3 C
+Samuels,Ralph  5
+ENG 201 3 B
+CMA 101 3 C
+STL 210 4 B
+MTH 233 3 B
+BIO 101 4 C
+Dunn,Robert  3
+PHY 210 4 C
+MTH 405 3 B
+BIO 201 4 C
