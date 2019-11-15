@@ -1,0 +1,17 @@
+CS 202                                                       Spring 2017
+Assignment 8                                                 Files
+
+There are four bases found in dna, A (adenine), C (cytosine), G (guanine), 
+and T (thymine).  Three consecutive non-overlapping bases forms a codon.  
+Since there are four bases, there are 64 possible codons. 
+
+You are going to write a program that reads a file containing a dna sequence
+and count the frquencey of each codon.  The file "ecoli.txt" contains the dna 
+sequence for one type of ecoli. Your program should read this file and store
+the dna sequence in a string.  You should then scan the string and count the 
+number of occurrences of each codon.  A dna sequence can be read in three 
+different ways, starting at position 0, starting at position 1, or starting at 
+position 2.  For this exercise we will start at position 0.
+
+The file "codons.txt" contains a list of the 64 possible codons.  You can use the 
+contents of this file rather than generating the codons.
